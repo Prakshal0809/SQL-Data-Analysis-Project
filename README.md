@@ -2,10 +2,14 @@
 
 
 The project involves analyzing data from four .csv files. 
-1.order_details
-2.orders
-3.pizza_types
-4.pizzas
+
+1. order_details
+
+2. orders
+
+3. pizza_types
+
+4. pizzas
 
 
 I used SQL to address and answer various data analysis questions related to the dataset.
